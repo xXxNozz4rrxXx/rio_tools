@@ -2,10 +2,10 @@
 
 
 ## Getting Started
-1. ```git clone https://github.com//.git```
+1. ```git clone https://https://github.com/xxxrioxxx/rio_tools/.git```
 2. ```cd ```
-3. ```chmod +x hak9tools.sh ```
-4. ```./hak9tools.sh ```
+3. ```chmod +x tools.sh ```
+4. ```./tools.sh ```
 
 ## A linux operating system. We recommend :
 - Kali Linux 
